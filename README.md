@@ -41,10 +41,10 @@ This app uses flutter_riverpod with @Riverpod annotations for managing applicati
 ## Screenshots
 
 ### Main Screen
-![Main Screen](assets/screenshots/main_screen.png)
+![Main Screen](assets/images/main_screen.png)
 
 ### Article Detail Screen
-![Article Detail](assets/screenshots/detail_screen.png)
+![Article Detail](assets/images/detail_screen.png)
 
 ### Favorites Screen
-![Favorites](assets/screenshots/favorites_screen.png)
+![Favorites](assets/images/favorites_screen.png)
